@@ -1,0 +1,5 @@
+MagnetCoin-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/MagnetCoin-qt.desktop usr/share/applications
+debian/MagnetCoin-qt.protocol usr/share/kde4/services/

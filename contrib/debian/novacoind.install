@@ -1,0 +1,2 @@
+debian/bin/MagnetCoind usr/bin
+src/MagnetCoind usr/lib/MagnetCoin

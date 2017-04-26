@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=MagnetCoin
+Comment=MagnetCoin P2P Cryptocurrency
+Comment[fr]=MagnetCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=MagnetCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/MagnetCoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/MagnetCoin;
+Categories=Office;
