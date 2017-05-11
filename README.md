@@ -22,21 +22,3 @@ Algorithm: SHA256 PoS (Proof of Stake)
 RPC Port: 22459
 
 P2P Port: 22458
-
-
-MagnetCoin.conf
-
-rpcuser=username
-
-rpcpassword=password
-
-rpcallowip=127.0.0.1
-
-rpcport=22459
-
-addnode=
-
-addnode=
-
-addnode=
-
