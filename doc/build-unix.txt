@@ -13,7 +13,10 @@ UNIX BUILD NOTES
 To Build
 --------
 
-cd src/
+cd src/leveldb/
+chmod a+x build_detect_platform
+make
+cd ../
 make -f makefile.unix            # Headless MagnetCoin
 
 See readme-qt.rst for instructions on building MagnetCoin QT,
